@@ -8,8 +8,3 @@ The second course will deepen your knowledge and skills with TensorFlow, in orde
 
 The final course specialises in the increasingly important probabilistic approach to deep learning. You will learn how to develop probabilistic models with TensorFlow, making particular use of the TensorFlow Probability library, which is designed to make it easy to combine probabilistic models with deep learning. As such, this course can also be viewed as an introduction to the TensorFlow Probability library.
 
-Prerequisite knowledge for this Specialization is python 3, general machine learning and deep learning concepts, and a solid foundation in probability and statistics (especially for course 3).
-
-Applied Learning Project
-
-Within the Capstone projects and programming assignments of this Specialization, you will acquire practical skills in developing deep learning models for a range of applications such as image classification, language translation, and text and image generation.
